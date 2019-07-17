@@ -1,0 +1,10 @@
+.app-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.app-header h5 {
+  color: gray;
+  font-size: 1.3rem;
+}

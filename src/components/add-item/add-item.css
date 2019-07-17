@@ -1,0 +1,12 @@
+.add-item {
+  margin-top: 20px;
+  display: flex;
+}
+
+.add-item-button {
+  margin-left: 10px;
+}
+
+.text-for-add-item {
+  width: 100%;
+}
